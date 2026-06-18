@@ -1,0 +1,5 @@
+Laptop;8500000.0;10
+Mie Instan;3000.0;200
+Air Mineral;5000.0;150
+Sapu;25000.0;50
+Kaos Polos;75000.0;30
